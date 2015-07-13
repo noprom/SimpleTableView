@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		80745DA01B5406C50018DD61 /* btn_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 80745D9F1B5406C50018DD61 /* btn_01.png */; };
 		809ABB681B50062800F16AFE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 809ABB671B50062800F16AFE /* main.m */; };
 		809ABB6B1B50062800F16AFE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 809ABB6A1B50062800F16AFE /* AppDelegate.m */; };
 		809ABB6E1B50062800F16AFE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 809ABB6D1B50062800F16AFE /* ViewController.m */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		80745D9F1B5406C50018DD61 /* btn_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_01.png; sourceTree = "<group>"; };
 		809ABB621B50062800F16AFE /* SimpleTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		809ABB661B50062800F16AFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		809ABB671B50062800F16AFE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				809ABB6D1B50062800F16AFE /* ViewController.m */,
 				809ABB6F1B50062800F16AFE /* Main.storyboard */,
 				809ABB721B50062800F16AFE /* Images.xcassets */,
+				80745D9F1B5406C50018DD61 /* btn_01.png */,
 				809ABB741B50062800F16AFE /* LaunchScreen.xib */,
 				809ABB651B50062800F16AFE /* Supporting Files */,
 			);
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				809ABB711B50062800F16AFE /* Main.storyboard in Resources */,
+				80745DA01B5406C50018DD61 /* btn_01.png in Resources */,
 				809ABB761B50062800F16AFE /* LaunchScreen.xib in Resources */,
 				809ABB731B50062800F16AFE /* Images.xcassets in Resources */,
 			);
@@ -416,6 +420,7 @@
 				809ABB871B50062800F16AFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		809ABB881B50062800F16AFE /* Build configuration list for PBXNativeTarget "SimpleTableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +429,7 @@
 				809ABB8A1B50062800F16AFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
